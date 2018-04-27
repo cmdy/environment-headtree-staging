@@ -13,3 +13,6 @@ dependencies:
 - name: node-http
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: antest
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
